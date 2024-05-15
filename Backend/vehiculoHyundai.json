@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "marca": "Hyundai",
+    "modelo": "New i20",
+    "precio": "$13.390.000"
+  },
+  {
+    "id": 2,
+    "marca": "Hyundai",
+    "modelo": "All new Santa FE",
+    "precio": "$32.990.000"
+  },
+  {
+    "id": 3,
+    "marca": "Hyundai",
+    "modelo": "New Creta",
+    "precio": "$15.990.000"
+  },
+  {
+    "id": 4,
+    "marca": "Hyundai",
+    "modelo": "All New Accent",
+    "precio": "$13.490.000"
+  },
+  {
+    "id": 5,
+    "marca": "Hyundai",
+    "modelo": "New GRAND i10 Sedan",
+    "precio": "$10.790.000"
+  },
+  {
+    "id": 6,
+    "marca": "Hyundai",
+    "modelo": "New GRAND i10 Hatchback",
+    "precio": "$8.990.000"
+  },
+  {
+    "id": 7,
+    "marca": "Hyundai",
+    "modelo": "i20",
+    "precio": "$12.790.000"
+  },
+  {
+    "id": 8,
+    "marca": "Hyundai",
+    "modelo": "Venue",
+    "precio": "$14.290.000"
+  },
+  {
+    "id": 9,
+    "marca": "Hyundai",
+    "modelo": "Creta Grand",
+    "precio": "$18.890.000"
+  },
+  {
+    "id": 10,
+    "marca": "Hyundai",
+    "modelo": "TUCSON",
+    "precio": "$20.990.000"
+  },
+  {
+    "id": 11,
+    "marca": "Hyundai",
+    "modelo": "SANTA FE",
+    "precio": "$27.090.000"
+  },
+  {
+    "id": 12,
+    "marca": "Hyundai",
+    "modelo": "New Tucson Híbrido",
+    "precio": "$34.590.000"
+  },
+  {
+    "id": 13,
+    "marca": "Hyundai",
+    "modelo": "New PALISADE",
+    "precio": "$44.990.000"
+  },
+  {
+    "id": 14,
+    "marca": "Hyundai",
+    "modelo": "Porter Chasis",
+    "precio": "$23.788.100"
+  },
+  {
+    "id": 15,
+    "marca": "Hyundai",
+    "modelo": "Porter",
+    "precio": "$24.502.100"
+  },
+  {
+    "id": 16,
+    "marca": "Hyundai",
+    "modelo": "Porter Doble Cabina",
+    "precio": "$25.573.100"
+  },
+  {
+    "id": 17,
+    "marca": "Hyundai",
+    "modelo": "Staria Furgón",
+    "precio": "$30.928.100"
+  },
+  {
+    "id": 18,
+    "marca": "Hyundai",
+    "modelo": "STARIA",
+    "precio": "$34.855.100"
+  },
+  {
+    "id": 19,
+    "marca": "Hyundai",
+    "modelo": "Kona Eléctrico",
+    "precio": "$29.990.000"
+  },
+  {
+    "id": 20,
+    "marca": "Hyundai",
+    "modelo": "New Tucson Híbrido",
+    "precio": "$34.590.000"
+  },
+  {
+    "id": 21,
+    "marca": "Hyundai",
+    "modelo": "All New IONIQ 5",
+    "precio": "$49.990.000"
+  }
+]

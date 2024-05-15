@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "marca": "Audi",
+    "modelo": "A1 Sportback",
+    "precio": "$27.290.000"
+  },
+  {
+    "id": 2,
+    "marca": "Audi",
+    "modelo": "A1 Sportback",
+    "precio": "$27.290.000"
+  },
+  {
+    "id": 3,
+    "marca": "Audi",
+    "modelo": "A3 Sportback",
+    "precio": "$33.290.000"
+  },
+  {
+    "id": 4,
+    "marca": "Audi",
+    "modelo": "A3 Sedán",
+    "precio": "$34.290.000"
+  },
+  {
+    "id": 5,
+    "marca": "Audi",
+    "modelo": "S3 Sportback",
+    "precio": "$54.990.000"
+  },
+  {
+    "id": 6,
+    "marca": "Audi",
+    "modelo": "S3 Sedán",
+    "precio": "Por definir"
+  },
+  {
+    "id": 7,
+    "marca": "Audi",
+    "modelo": "RS 3 Sportback",
+    "precio": "$77.990.000"
+  },
+  {
+    "id": 8,
+    "marca": "Audi",
+    "modelo": "A3 Sportback",
+    "precio": "$33.290.000"
+  },
+  {
+    "id": 9,
+    "marca": "Audi",
+    "modelo": "A3 Sedán",
+    "precio": "$34.290.000"
+  },
+  {
+    "id": 10,
+    "marca": "Audi",
+    "modelo": "S3 Sportback",
+    "precio": "$54.990.000"
+  },
+  {
+    "id": 11,
+    "marca": "Audi",
+    "modelo": "S3 Sedán",
+    "precio": "Por definir"
+  },
+  {
+    "id": 12,
+    "marca": "Audi",
+    "modelo": "RS 3 Sportback",
+    "precio": "$77.990.000"
+  },
+  {
+    "id": 13,
+    "marca": "Audi",
+    "modelo": "A4 Sedán",
+    "precio": "$39.990.000"
+  },
+  {
+    "id": 14,
+    "marca": "Audi",
+    "modelo": "S4 Sedán ",
+    "precio": "Por definir"
+  },
+  {
+    "id": 15,
+    "marca": "Audi",
+    "modelo": "A4 Sedán",
+    "precio": "$39.990.000"
+  },
+  {
+    "id": 16,
+    "marca": "Audi",
+    "modelo": "S4 Sedán",
+    "precio": "Por definir"
+  },
+  {
+    "id": 17,
+    "marca": "Audi",
+    "modelo": "A5 Coupé",
+    "precio": "$48.490.000"
+  },
+  {
+    "id": 18,
+    "marca": "Audi",
+    "modelo": "A5 Sportback ",
+    "precio": "$49.290.000"
+  },
+  {
+    "id": 19,
+    "marca": "Audi",
+    "modelo": "A5 Cabriolet",
+    "precio": "$57.990.000"
+  },
+  {
+    "id": 20,
+    "marca": "Audi",
+    "modelo": "RS 5 Coupé",
+    "precio": "$109.990.000"
+  },
+  {
+    "id": 21,
+    "marca": "Audi",
+    "modelo": "A5 Coupé",
+    "precio": "$48.490.000"
+  },
+  {
+    "id": 22,
+    "marca": "Audi",
+    "modelo": "A5 Sportback",
+    "precio": "$49.290.000"
+  },
+  {
+    "id": 23,
+    "marca": "Audi",
+    "modelo": "A5 Cabriolet",
+    "precio": "$57.990.000"
+  },
+  {
+    "id": 24,
+    "marca": "Audi",
+    "modelo": "RS 5 Coupé",
+    "precio": "$109.990.000"
+  },
+  {
+    "id": 25,
+    "marca": "Audi",
+    "modelo": "A6 Sedán",
+    "precio": "$60.990.000"
+  },
+  {
+    "id": 26,
+    "marca": "Audi",
+    "modelo": "A6 Sedán",
+    "precio": "$60.990.000"
+  },
+  {
+    "id": 27,
+    "marca": "Audi",
+    "modelo": "Q2",
+    "precio": "$34.990.000"
+  },
+  {
+    "id": 28,
+    "marca": "Audi",
+    "modelo": "Q2",
+    "precio": "$34.990.000"
+  },
+  {
+    "id": 29,
+    "marca": "Audi",
+    "modelo": "Q3",
+    "precio": "$40.490.000"
+  },
+  {
+    "id": 30,
+    "marca": "Audi",
+    "modelo": "Q3 Sportback",
+    "precio": "$42.490.000"
+  },
+  {
+    "id": 31,
+    "marca": "Audi",
+    "modelo": "RS Q3 Sportback",
+    "precio": "$99.990.000"
+  },
+  {
+    "id": 32,
+    "marca": "Audi",
+    "modelo": "Q3",
+    "precio": "$40.490.000"
+  },
+  {
+    "id": 33,
+    "marca": "Audi",
+    "modelo": "Q3 Sportback",
+    "precio": "$42.490.000"
+  },
+  {
+    "id": 34,
+    "marca": "Audi",
+    "modelo": "RS Q3 Sportback",
+    "precio": "$99.990.000"
+  },
+  {
+    "id": 35,
+    "marca": "Audi",
+    "modelo": "Q5",
+    "precio": "$59.490.000"
+  },
+  {
+    "id": 36,
+    "marca": "Audi",
+    "modelo": "Q5 Sportback",
+    "precio": "$61.490.000"
+  },
+  {
+    "id": 37,
+    "marca": "Audi",
+    "modelo": "SQ5 Sportback",
+    "precio": "Por definir"
+  },
+  {
+    "id": 38,
+    "marca": "Audi",
+    "modelo": "Q5",
+    "precio": "$59.490.000"
+  },
+  {
+    "id": 39,
+    "marca": "Audi",
+    "modelo": "Q5 Sportback",
+    "precio": "$61.490.000"
+  },
+  {
+    "id": 40,
+    "marca": "Audi",
+    "modelo": "SQ5 Sportback",
+    "precio": "Por definir"
+  },
+  {
+    "id": 41,
+    "marca": "Audi",
+    "modelo": "Q7",
+    "precio": "$79.990.000"
+  },
+  {
+    "id": 42,
+    "marca": "Audi",
+    "modelo": "Q7",
+    "precio": "$79.990.000"
+  },
+  {
+    "id": 43,
+    "marca": "Audi",
+    "modelo": "Q8",
+    "precio": "$85.990.000"
+  },
+  {
+    "id": 44,
+    "marca": "Audi",
+    "modelo": "RS Q8",
+    "precio": "Por definir"
+  },
+  {
+    "id": 45,
+    "marca": "Audi",
+    "modelo": "Q8",
+    "precio": "$85.990.000"
+  },
+  {
+    "id": 46,
+    "marca": "Audi",
+    "modelo": "RS Q8",
+    "precio": "Por definir"
+  },
+  {
+    "id": 47,
+    "marca": "Audi",
+    "modelo": "e-tron Sportback",
+    "precio": "$88.990.000"
+  },
+  {
+    "id": 48,
+    "marca": "Audi",
+    "modelo": "RS e-tron GT ",
+    "precio": "$146.490.000"
+  },
+  {
+    "id": 49,
+    "marca": "Audi",
+    "modelo": "e-tron Sportback",
+    "precio": "$88.990.000"
+  },
+  {
+    "id": 50,
+    "marca": "Audi",
+    "modelo": "RS e-tron GT",
+    "precio": "$146.490.000"
+  }
+]
